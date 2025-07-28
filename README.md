@@ -10,4 +10,7 @@ The version of the game accounted for 3 file of 50 questions each that are picke
 
 The game works the same as the game show without the lifelines.
 
+Verion 2 of the game to be made in PYgame
+(still in development)
+
 
