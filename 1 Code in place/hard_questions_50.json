@@ -1,0 +1,232 @@
+[
+    {
+        "question": "What is the smallest country in the world by land area?",
+        "options": { "A": "Monaco", "B": "San Marino", "C": "Liechtenstein", "D": "Vatican City" },
+        "answer": "D"
+    },
+    {
+        "question": "Who was the first woman to win a Nobel Prize?",
+        "options": { "A": "Rosalind Franklin", "B": "Marie Curie", "C": "Ada Lovelace", "D": "Jane Goodall" },
+        "answer": "B"
+    },
+    {
+        "question": "What is the most spoken native language in the world?",
+        "options": { "A": "English", "B": "Hindi", "C": "Mandarin Chinese", "D": "Spanish" },
+        "answer": "C"
+    },
+    {
+        "question": "Which country was formerly known as Abyssinia?",
+        "options": { "A": "Sudan", "B": "Eritrea", "C": "Ethiopia", "D": "Somalia" },
+        "answer": "C"
+    },
+    {
+        "question": "Who developed the first successful polio vaccine?",
+        "options": { "A": "Louis Pasteur", "B": "Albert Sabin", "C": "Alexander Fleming", "D": "Jonas Salk" },
+        "answer": "D"
+    },
+    {
+        "question": "What is the capital of Kazakhstan?",
+        "options": { "A": "Almaty", "B": "Astana", "C": "Tashkent", "D": "Bishkek" },
+        "answer": "B"
+    },
+    {
+        "question": "In which year did the Berlin Wall fall?",
+        "options": { "A": "1987", "B": "1989", "C": "1991", "D": "1985" },
+        "answer": "B"
+    },
+    {
+        "question": "What is the rarest blood type in humans?",
+        "options": { "A": "AB positive", "B": "O negative", "C": "AB negative", "D": "B negative" },
+        "answer": "C"
+    },
+    {
+        "question": "Who is the Greek god of the underworld?",
+        "options": { "A": "Zeus", "B": "Poseidon", "C": "Hades", "D": "Ares" },
+        "answer": "C"
+    },
+    {
+        "question": "Which chemical element has the highest melting point?",
+        "options": { "A": "Iron", "B": "Tungsten", "C": "Titanium", "D": "Carbon" },
+        "answer": "B"
+    },
+    {
+        "question": "Who wrote 'The Divine Comedy'?",
+        "options": { "A": "Homer", "B": "Virgil", "C": "Dante Alighieri", "D": "Geoffrey Chaucer" },
+        "answer": "C"
+    },
+    {
+        "question": "Which European capital is located closest to the North Pole?",
+        "options": { "A": "Helsinki", "B": "Oslo", "C": "Reykjavík", "D": "Stockholm" },
+        "answer": "C"
+    },
+    {
+        "question": "What is the only mammal capable of true flight?",
+        "options": { "A": "Flying squirrel", "B": "Sugar glider", "C": "Bat", "D": "Colugo" },
+        "answer": "C"
+    },
+    {
+        "question": "Which war ended with the Treaty of Versailles?",
+        "options": { "A": "World War I", "B": "World War II", "C": "Napoleonic Wars", "D": "Franco-Prussian War" },
+        "answer": "A"
+    },
+    {
+        "question": "What is the currency of Iran?",
+        "options": { "A": "Riyal", "B": "Dinar", "C": "Toman", "D": "Rial" },
+        "answer": "D"
+    },
+    {
+        "question": "Which is the second longest river in the world?",
+        "options": { "A": "Amazon", "B": "Yangtze", "C": "Mississippi", "D": "Nile" },
+        "answer": "A"
+    },
+    {
+        "question": "Who was the Roman equivalent of the Greek god Hermes?",
+        "options": { "A": "Mercury", "B": "Apollo", "C": "Mars", "D": "Jupiter" },
+        "answer": "A"
+    },
+    {
+        "question": "Which natural disaster is measured using the Richter scale?",
+        "options": { "A": "Hurricanes", "B": "Earthquakes", "C": "Volcanic eruptions", "D": "Tsunamis" },
+        "answer": "B"
+    },
+    {
+        "question": "Which planet has a day longer than its year?",
+        "options": { "A": "Mercury", "B": "Venus", "C": "Mars", "D": "Neptune" },
+        "answer": "B"
+    },
+    {
+        "question": "What is the term for a word that is spelled the same backward and forward?",
+        "options": { "A": "Anagram", "B": "Palindrome", "C": "Homonym", "D": "Synonym" },
+        "answer": "B"
+    },
+    {
+        "question": "In what year did the Chernobyl disaster occur?",
+        "options": { "A": "1984", "B": "1986", "C": "1988", "D": "1990" },
+        "answer": "B"
+    },
+    {
+        "question": "What is the most abundant metal in Earth's crust?",
+        "options": { "A": "Iron", "B": "Aluminum", "C": "Copper", "D": "Zinc" },
+        "answer": "B"
+    },
+    {
+        "question": "Which desert is the largest hot desert in the world?",
+        "options": { "A": "Arabian", "B": "Gobi", "C": "Sahara", "D": "Kalahari" },
+        "answer": "C"
+    },
+    {
+        "question": "Who painted 'The Persistence of Memory'?",
+        "options": { "A": "Pablo Picasso", "B": "Salvador Dalí", "C": "Claude Monet", "D": "Andy Warhol" },
+        "answer": "B"
+    },
+    {
+        "question": "Which British monarch had the longest reign before Queen Elizabeth II?",
+        "options": { "A": "Queen Victoria", "B": "King George III", "C": "Queen Anne", "D": "King Henry VIII" },
+        "answer": "A"
+    },
+    {
+        "question": "What is the name of the deepest known part of the world's oceans?",
+        "options": { "A": "Tonga Trench", "B": "Java Trench", "C": "Puerto Rico Trench", "D": "Mariana Trench" },
+        "answer": "D"
+    },
+    {
+        "question": "Which U.S. state has the most active volcanoes?",
+        "options": { "A": "California", "B": "Hawaii", "C": "Alaska", "D": "Washington" },
+        "answer": "C"
+    },
+    {
+        "question": "Which philosopher wrote 'The Republic'?",
+        "options": { "A": "Socrates", "B": "Aristotle", "C": "Plato", "D": "Descartes" },
+        "answer": "C"
+    },
+    {
+        "question": "Which instrument is used to measure humidity?",
+        "options": { "A": "Barometer", "B": "Anemometer", "C": "Hygrometer", "D": "Thermometer" },
+        "answer": "C"
+    },
+    {
+        "question": "In which galaxy is Earth located?",
+        "options": { "A": "Andromeda", "B": "Milky Way", "C": "Triangulum", "D": "Whirlpool" },
+        "answer": "B"
+    },
+    {
+        "question": "Which country consumes the most coffee per capita?",
+        "options": { "A": "Italy", "B": "Brazil", "C": "Finland", "D": "USA" },
+        "answer": "C"
+    },
+    {
+        "question": "Which author wrote 'A Brief History of Time'?",
+        "options": { "A": "Richard Feynman", "B": "Stephen Hawking", "C": "Carl Sagan", "D": "Brian Greene" },
+        "answer": "B"
+    },
+    {
+        "question": "What is the capital of Bhutan?",
+        "options": { "A": "Thimphu", "B": "Kathmandu", "C": "Lhasa", "D": "Paro" },
+        "answer": "A"
+    },
+    {
+        "question": "Who discovered the electron?",
+        "options": { "A": "Ernest Rutherford", "B": "J.J. Thomson", "C": "Niels Bohr", "D": "James Chadwick" },
+        "answer": "B"
+    },
+    {
+        "question": "Which is the only bird that can fly backward?",
+        "options": { "A": "Swallow", "B": "Kingfisher", "C": "Hummingbird", "D": "Albatross" },
+        "answer": "C"
+    },
+    {
+        "question": "What is the main component of natural gas?",
+        "options": { "A": "Butane", "B": "Ethane", "C": "Methane", "D": "Propane" },
+        "answer": "C"
+    },
+    {
+        "question": "Which U.S. president served the shortest term?",
+        "options": { "A": "James Garfield", "B": "William Henry Harrison", "C": "Zachary Taylor", "D": "Millard Fillmore" },
+        "answer": "B"
+    },
+    {
+        "question": "Which vitamin helps with blood clotting?",
+        "options": { "A": "Vitamin A", "B": "Vitamin B12", "C": "Vitamin K", "D": "Vitamin D" },
+        "answer": "C"
+    },
+    {
+        "question": "Which African lake is the world's second largest freshwater lake by area?",
+        "options": { "A": "Lake Victoria", "B": "Lake Tanganyika", "C": "Lake Malawi", "D": "Lake Chad" },
+        "answer": "A"
+    },
+    {
+        "question": "Who composed the 'Four Seasons'?",
+        "options": { "A": "Johann Sebastian Bach", "B": "Antonio Vivaldi", "C": "Ludwig van Beethoven", "D": "Wolfgang Amadeus Mozart" },
+        "answer": "B"
+    },
+    {
+        "question": "Which treaty created the European Union?",
+        "options": { "A": "Treaty of Rome", "B": "Treaty of Maastricht", "C": "Treaty of Lisbon", "D": "Treaty of Paris" },
+        "answer": "B"
+    },
+    {
+        "question": "What is the largest internal organ in the human body?",
+        "options": { "A": "Liver", "B": "Lungs", "C": "Brain", "D": "Heart" },
+        "answer": "A"
+    },
+    {
+        "question": "Which Shakespeare play features the character Shylock?",
+        "options": { "A": "Othello", "B": "The Tempest", "C": "The Merchant of Venice", "D": "King Lear" },
+        "answer": "C"
+    },
+    {
+        "question": "What is the unit of electrical resistance?",
+        "options": { "A": "Ampere", "B": "Volt", "C": "Ohm", "D": "Watt" },
+        "answer": "C"
+    },
+    {
+        "question": "What does the acronym 'LASER' stand for?",
+        "options": { "A": "Light Amplification by Stimulated Emission of Radiation", "B": "Light and Sound Energy Reactor", "C": "Luminous Amplification System for Energy Radiation", "D": "Low Amplification Spectrum Energy Ray" },
+        "answer": "A"
+    },
+    {
+        "question": "Which artist is known for 'The Birth of Venus'?",
+        "options": { "A": "Donatello", "B": "Botticelli", "C": "Raphael", "D": "Michelangelo" },
+        "answer": "B"
+    }
+]

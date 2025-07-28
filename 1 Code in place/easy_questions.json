@@ -1,0 +1,252 @@
+[
+    {
+        "question": "How many hours are in a day?",
+        "options": { "A": "24", "B": "12", "C": "18", "D": "36" },
+        "answer": "A"
+    },
+    {
+        "question": "What is the capital of France?",
+        "options": { "A": "Berlin", "B": "Madrid", "C": "Paris", "D": "Rome" },
+        "answer": "C"
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "options": { "A": "Venus", "B": "Mars", "C": "Jupiter", "D": "Saturn" },
+        "answer": "B"
+    },
+    {
+        "question": "What is the largest mammal?",
+        "options": { "A": "Elephant", "B": "Giraffe", "C": "Blue Whale", "D": "Hippopotamus" },
+        "answer": "C"
+    },
+    {
+        "question": "How many continents are there?",
+        "options": { "A": "5", "B": "6", "C": "7", "D": "8" },
+        "answer": "C"
+    },
+    {
+        "question": "What do bees make?",
+        "options": { "A": "Milk", "B": "Honey", "C": "Wax", "D": "Silk" },
+        "answer": "B"
+    },
+    {
+        "question": "Which ocean is the largest?",
+        "options": { "A": "Atlantic", "B": "Indian", "C": "Arctic", "D": "Pacific" },
+        "answer": "D"
+    },
+    {
+        "question": "What color are bananas when ripe?",
+        "options": { "A": "Green", "B": "Yellow", "C": "Red", "D": "Blue" },
+        "answer": "B"
+    },
+    {
+        "question": "Which animal is known as man's best friend?",
+        "options": { "A": "Cat", "B": "Horse", "C": "Dog", "D": "Rabbit" },
+        "answer": "C"
+    },
+    {
+        "question": "How many legs does a spider have?",
+        "options": { "A": "6", "B": "8", "C": "10", "D": "12" },
+        "answer": "B"
+    },
+    {
+        "question": "What gas do plants absorb from the air?",
+        "options": { "A": "Oxygen", "B": "Nitrogen", "C": "Carbon Dioxide", "D": "Hydrogen" },
+        "answer": "C"
+    },
+    {
+        "question": "Which bird is known for mimicking sounds?",
+        "options": { "A": "Eagle", "B": "Parrot", "C": "Owl", "D": "Swan" },
+        "answer": "B"
+    },
+    {
+        "question": "What is H2O commonly known as?",
+        "options": { "A": "Salt", "B": "Hydrogen", "C": "Water", "D": "Oxygen" },
+        "answer": "C"
+    },
+    {
+        "question": "Which instrument has black and white keys?",
+        "options": { "A": "Violin", "B": "Guitar", "C": "Drum", "D": "Piano" },
+        "answer": "D"
+    },
+    {
+        "question": "What shape is a stop sign?",
+        "options": { "A": "Square", "B": "Hexagon", "C": "Octagon", "D": "Triangle" },
+        "answer": "C"
+    },
+    {
+        "question": "Which fruit has its seeds on the outside?",
+        "options": { "A": "Apple", "B": "Orange", "C": "Strawberry", "D": "Grape" },
+        "answer": "C"
+    },
+    {
+        "question": "Which planet do we live on?",
+        "options": { "A": "Mars", "B": "Venus", "C": "Jupiter", "D": "Earth" },
+        "answer": "D"
+    },
+    {
+        "question": "What is the freezing point of water in Celsius?",
+        "options": { "A": "0", "B": "32", "C": "-10", "D": "100" },
+        "answer": "A"
+    },
+    {
+        "question": "What is 5 + 3?",
+        "options": { "A": "7", "B": "8", "C": "9", "D": "6" },
+        "answer": "B"
+    },
+    {
+        "question": "Which month has 28 days in a common year?",
+        "options": { "A": "February", "B": "March", "C": "April", "D": "June" },
+        "answer": "A"
+    },
+    {
+        "question": "How many colors are in a rainbow?",
+        "options": { "A": "5", "B": "6", "C": "7", "D": "8" },
+        "answer": "C"
+    },
+    {
+        "question": "Which country is known for the Eiffel Tower?",
+        "options": { "A": "Italy", "B": "France", "C": "Spain", "D": "Germany" },
+        "answer": "B"
+    },
+    {
+        "question": "What is the opposite of 'up'?",
+        "options": { "A": "Over", "B": "Down", "C": "Left", "D": "Under" },
+        "answer": "B"
+    },
+    {
+        "question": "Which season comes after summer?",
+        "options": { "A": "Spring", "B": "Winter", "C": "Autumn", "D": "Monsoon" },
+        "answer": "C"
+    },
+    {
+        "question": "Which animal is known for having a long neck?",
+        "options": { "A": "Elephant", "B": "Giraffe", "C": "Zebra", "D": "Tiger" },
+        "answer": "B"
+    },
+    {
+        "question": "How many sides does a triangle have?",
+        "options": { "A": "2", "B": "3", "C": "4", "D": "5" },
+        "answer": "B"
+    },
+    {
+        "question": "What is the main ingredient in bread?",
+        "options": { "A": "Sugar", "B": "Rice", "C": "Flour", "D": "Butter" },
+        "answer": "C"
+    },
+    {
+        "question": "What is the first letter of the alphabet?",
+        "options": { "A": "A", "B": "B", "C": "Z", "D": "D" },
+        "answer": "A"
+    },
+    {
+        "question": "Which sense do we use to smell things?",
+        "options": { "A": "Sight", "B": "Hearing", "C": "Touch", "D": "Smell" },
+        "answer": "D"
+    },
+    {
+        "question": "Which planet is closest to the sun?",
+        "options": { "A": "Mercury", "B": "Venus", "C": "Earth", "D": "Mars" },
+        "answer": "A"
+    },
+    {
+        "question": "How many wheels does a tricycle have?",
+        "options": { "A": "2", "B": "3", "C": "4", "D": "6" },
+        "answer": "B"
+    },
+    {
+        "question": "What do cows produce?",
+        "options": { "A": "Honey", "B": "Water", "C": "Milk", "D": "Oil" },
+        "answer": "C"
+    },
+    {
+        "question": "What is the largest organ of the human body?",
+        "options": { "A": "Heart", "B": "Liver", "C": "Skin", "D": "Brain" },
+        "answer": "C"
+    },
+    {
+        "question": "What do you use to write on a blackboard?",
+        "options": { "A": "Pen", "B": "Pencil", "C": "Chalk", "D": "Marker" },
+        "answer": "C"
+    },
+    {
+        "question": "Which insect makes a buzzing sound?",
+        "options": { "A": "Bee", "B": "Butterfly", "C": "Ant", "D": "Spider" },
+        "answer": "A"
+    },
+    {
+        "question": "What type of animal is a salmon?",
+        "options": { "A": "Bird", "B": "Fish", "C": "Mammal", "D": "Reptile" },
+        "answer": "B"
+    },
+    {
+        "question": "What do you use to tell the time?",
+        "options": { "A": "Thermometer", "B": "Clock", "C": "Calendar", "D": "Compass" },
+        "answer": "B"
+    },
+    {
+        "question": "Which fruit is known for keeping doctors away?",
+        "options": { "A": "Banana", "B": "Apple", "C": "Grapes", "D": "Pineapple" },
+        "answer": "B"
+    },
+    {
+        "question": "Which natural satellite orbits the Earth?",
+        "options": { "A": "Mars", "B": "Sun", "C": "Moon", "D": "Venus" },
+        "answer": "C"
+    },
+    {
+        "question": "Which direction does the sun rise?",
+        "options": { "A": "West", "B": "East", "C": "North", "D": "South" },
+        "answer": "B"
+    },
+    {
+        "question": "What do you wear on your feet?",
+        "options": { "A": "Hat", "B": "Gloves", "C": "Shoes", "D": "Scarf" },
+        "answer": "C"
+    },
+    {
+        "question": "What is the tallest animal in the world?",
+        "options": { "A": "Elephant", "B": "Giraffe", "C": "Horse", "D": "Camel" },
+        "answer": "B"
+    },
+    {
+        "question": "What is the boiling point of water in Celsius?",
+        "options": { "A": "90", "B": "95", "C": "100", "D": "105" },
+        "answer": "C"
+    },
+    {
+        "question": "What do you call a baby cat?",
+        "options": { "A": "Cub", "B": "Kitten", "C": "Puppy", "D": "Foal" },
+        "answer": "B"
+    },
+    {
+        "question": "What color is the sky on a clear day?",
+        "options": { "A": "Green", "B": "Blue", "C": "Red", "D": "Yellow" },
+        "answer": "B"
+    },
+    {
+        "question": "Which country is famous for pizza and pasta?",
+        "options": { "A": "France", "B": "Italy", "C": "Spain", "D": "Greece" },
+        "answer": "B"
+    },
+    {
+        "question": "Which part of your body do you use to see?",
+        "options": { "A": "Nose", "B": "Ears", "C": "Eyes", "D": "Mouth" },
+        "answer": "C"
+    },
+    {
+        "question": "How many days are in a leap year?",
+        "options": { "A": "364", "B": "365", "C": "366", "D": "367" },
+        "answer": "C"
+    },
+    {
+        "question": "Which animal is known for its black and white stripes?",
+        "options": { "A": "Tiger", "B": "Zebra", "C": "Leopard", "D": "Cheetah" },
+        "answer": "B"
+    },
+    {
+        "question": "How many minutes are in an hour?",
+        "options": { "A": "30", "B": "45", "C": "60", "D": "90" },
+        "answer": "C"
+    }
+]
